@@ -68,8 +68,18 @@ width:100%;
 height:50px;
 background-color:black;
 }
-a{
+#blog{
 position: absolute;
-top 100px;
-left:100px;
+top:10px;
+left:20%;
+}
+#home{
+position: absolute;
+top:10px;
+left:40%;
+}
+#mystuff{
+position: absolute;
+top: 10px;
+left:80%;
 }
