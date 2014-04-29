@@ -21,7 +21,7 @@ width:500px;
 .top{
 position:absolute;
 top:20px;
-left:20%;
+left:10%;
 width:700px;
 height:200px;
 }
@@ -35,14 +35,14 @@ height: 400px;
 
 .middle{
 position:absolute;
-left:40%;
+left:30%;
 top:250px;
 height: 400px;
 }
 
 .right{
 position: absolute;
-left: 80%;
+left: 650%;
 top: 250px;
 height: 400px;
 }
