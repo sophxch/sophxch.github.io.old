@@ -27,21 +27,21 @@ height:200px;
 
 .left{
 position:absolute;
-left:5%;
+left:10%;
 top:250px;
 height: 400px;
 }
 
 .middle{
 position:absolute;
-left:30%;
+left:40%;
 top:250px;
 height: 400px;
 }
 
 .right{
 position: absolute;
-left: 65%;
+left: 80%;
 top: 250px;
 height: 400px;
 }
