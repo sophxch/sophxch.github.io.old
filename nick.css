@@ -5,20 +5,20 @@ text-align:center;
 
 .title{
 font-size:50px;
-color: black;
+color:black;
 left:40%;
 text-align:center;
-font: arial;
+font:arial;
 }
 
 .text{
 font-size:20px;
-color: black;
+color:black;
 text-align:center;
 }
 
 .top{
-position: absolute;
+position:absolute;
 margin:20px;
 top:20px;
 text-align:center;
@@ -39,8 +39,8 @@ border-radius:10px
 }
 
 .middle{
-position: absolute;
-top: 250px;
+position:absolute;
+top:250px;
 text-align:center;
 padding:1px;
 margin:20px;
