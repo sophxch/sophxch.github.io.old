@@ -68,8 +68,8 @@ width:100%;
 height:50px;
 background-color:black;
 }
-#blog{
+a{
 position: absolute;
-top 100px;
+top 5px;
 left:5px;
 }
