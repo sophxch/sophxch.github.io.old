@@ -29,7 +29,7 @@ border-radius:10px;
 
 .left{
 position:absolute;
-left:5%;
+left:50px;
 top:250px;
 padding:1px;
 width:440px;
@@ -39,7 +39,7 @@ border-radius:10px
 
 .middle{
 position:absolute;
-left:40%;
+left:100%;
 top:250px;
 padding:1px;
 width:440px;
