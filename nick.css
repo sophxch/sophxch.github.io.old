@@ -48,13 +48,13 @@ top:10px;
 left:40px;
 }
 #home{
+width:40px;
 color:white;
 position: absolute;
 top:10px;
 left:50%;
-width:40px;
 text-align:center;
-margin-left:20px;
+margin-left:-20px;
 }
 #mystuff{
 color:white;
