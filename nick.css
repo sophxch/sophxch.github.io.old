@@ -45,7 +45,7 @@ width:400px;
 .right{
 position: absolute;
 top: 250px;
-right:0px;
+left:100%;
 width:400px;
 }
 
