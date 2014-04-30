@@ -30,9 +30,7 @@ position: absolute;
 top:250px;
 left:50%;
 margin-left:-200px;
-width:1000px;
-}
-
+width:400px;
 }
 
 .nav{
@@ -46,16 +44,15 @@ background-color:black;
 #blog{
 position: absolute;
 top:10px;
-left:10px;
+left:10%;
 }
 #home{
 position: absolute;
 top:10px;
-left:50%;
-margin-left:-39px;
+left:45%;
 }
 #mystuff{
 position: absolute;
 top: 10px;
-right:10px;
+left:80%;
 }
