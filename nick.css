@@ -37,7 +37,7 @@ width:400px
 position: absolute;
 top: 250px;
 left: 50%;
-margin-left: -100px;
+margin-left: -100%;
 width:400px;
 }
 
