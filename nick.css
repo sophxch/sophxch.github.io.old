@@ -25,26 +25,14 @@ width:700px;
 height:200px;
 }
 
-.left{
-position:absolute;
-top:250px;
-left:0px;
-width:400px
-}
-
 .middle{
 position: absolute;
 top:250px;
 left:50%;
 margin-left:-200px;
-width:400px;
+width:1000px;
 }
 
-.right{
-position: absolute;
-top: 250px;
-right:0px;
-width:400px;
 }
 
 .nav{
@@ -58,15 +46,16 @@ background-color:black;
 #blog{
 position: absolute;
 top:10px;
-left:10%;
+left:10px;
 }
 #home{
 position: absolute;
 top:10px;
-left:45%;
+left:50%;
+margin-left:-39px;
 }
 #mystuff{
 position: absolute;
 top: 10px;
-left:80%;
+right:10px;
 }
