@@ -44,15 +44,16 @@ background-color:black;
 #blog{
 position: absolute;
 top:10px;
-left:10%;
+left:10px;
 }
 #home{
 position: absolute;
 top:10px;
-left:45%;
+left:50%;
+margin-left:19.5px;
 }
 #mystuff{
 position: absolute;
 top: 10px;
-left:80%;
+right:10px;
 }
