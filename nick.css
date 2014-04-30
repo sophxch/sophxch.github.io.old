@@ -64,10 +64,6 @@ right:40px;
 }
 
 #embed{
-position:absolute;
 width:800px;
 height:100%;
-top:250px;
-left:50%;
-margin-left:-800px;
 }
