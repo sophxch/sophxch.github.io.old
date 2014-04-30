@@ -34,7 +34,8 @@ width:400px
 .middle{
 position: absolute;
 top: 250px;
-left: 38%;
+left: 50%;
+margin-left: -100%;
 width:400px;
 }
 
