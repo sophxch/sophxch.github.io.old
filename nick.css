@@ -33,10 +33,10 @@ height: 400px;
 }
 
 .middle{
-position:absolute;
-left:40%;
-top:250px;
-height: 400px;
+position: absolute;
+left: 50%;
+margin-left: -100px;
+}
 }
 
 .right{
