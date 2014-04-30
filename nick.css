@@ -62,3 +62,8 @@ position: absolute;
 top: 10px;
 right:40px;
 }
+
+#embed{
+width:800px;
+height:100%;
+}
