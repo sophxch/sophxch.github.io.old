@@ -70,3 +70,9 @@ right:40px;
 width:800px;
 height:2350px;
 }
+
+#corner{
+position:absolute;
+right:0px;
+bottom:0px;
+}
